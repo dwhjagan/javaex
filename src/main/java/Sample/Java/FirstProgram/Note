@@ -8,3 +8,17 @@ Class − A class can be defined as a template/blueprint that describes the beha
 Methods − A method is basically a behavior. A class can contain many methods. It is in methods where the logics are written, data is manipulated and all the actions are executed.
 
 Instance Variables − Each object has its unique set of instance variables. An object's state is created by the values assigned to these instance variables.
+
+Java is an Object-Oriented Language.
+As a language that has the Object-Oriented feature,
+Java supports the following fundamental concepts −
+
+Polymorphism
+Inheritance
+Encapsulation
+Abstraction
+Classes
+Objects
+Instance
+Method
+Message Parsing
