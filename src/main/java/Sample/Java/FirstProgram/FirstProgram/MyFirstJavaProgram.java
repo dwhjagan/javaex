@@ -5,3 +5,7 @@ public class MyFirstJavaProgram {
       System.out.println("Hello World");
    }
 }
+
+// class
+// method
+

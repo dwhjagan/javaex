@@ -14,5 +14,6 @@ public class MyFirstJavaProgram1 {
         // This is an example of single line comment
       /* This is also an example of single line comment. */
         System.out.println("Hello World");
+        System.out.println("This is my first Java program");
     }
 }
