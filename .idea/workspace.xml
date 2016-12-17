@@ -16,11 +16,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="charclass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charclass/charclass.java">
+      <file leaf-file-name="returndoc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charAtclass/returndoc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="144">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stringclass12.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/TestArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -55,7 +75,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/FirstProgram/FreshJuiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/object/object.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/object/EmployeeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/Note" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/variable/var.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/variable/v2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/variable/employee.java" />
@@ -78,6 +97,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/loop/eleifelse.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/valuclass/valueclass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charclass/charclass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/Note" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringdemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringarray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringlength.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charAtclass/stringdoc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charAtclass/returndoc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/s1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/TestArray.java" />
       </list>
     </option>
   </component>
@@ -229,7 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="charclass" />
+              <option name="myItemId" value="stringclass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,15 +272,15 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Application.charclass">
-    <configuration default="false" name="ifelseifclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestArray">
+    <configuration default="false" name="stringarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Sample.Java.FirstProgram.loop.*" />
+          <option name="PATTERN" value="Sample.Java.FirstProgram.stringclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.loop.ifelseifclass" />
+      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.stringclass.stringarray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -263,14 +293,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="caseclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="stringlength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Sample.Java.FirstProgram.loop.*" />
+          <option name="PATTERN" value="Sample.Java.FirstProgram.stringclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.loop.caseclass" />
+      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.stringclass.stringlength" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -283,14 +313,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="eleifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="returndoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Sample.Java.FirstProgram.loop.*" />
+          <option name="PATTERN" value="Sample.Java.FirstProgram.charAtclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.loop.eleifelse" />
+      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.charAtclass.returndoc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -303,14 +333,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="valueclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="stringclass12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Sample.Java.FirstProgram.valuclass.*" />
+          <option name="PATTERN" value="Sample.Java.FirstProgram.stringclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.valuclass.valueclass" />
+      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.stringclass.stringclass12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -323,14 +353,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="charclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Sample.Java.FirstProgram.charclass.*" />
+          <option name="PATTERN" value="Sample.Java.FirstProgram.stringclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.charclass.charclass" />
+      <option name="MAIN_CLASS_NAME" value="Sample.Java.FirstProgram.stringclass.TestArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -786,19 +816,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ifelseifclass" />
-      <item index="1" class="java.lang.String" itemvalue="Application.caseclass" />
-      <item index="2" class="java.lang.String" itemvalue="Application.eleifelse" />
-      <item index="3" class="java.lang.String" itemvalue="Application.valueclass" />
-      <item index="4" class="java.lang.String" itemvalue="Application.charclass" />
+      <item index="0" class="java.lang.String" itemvalue="Application.stringarray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.stringlength" />
+      <item index="2" class="java.lang.String" itemvalue="Application.returndoc" />
+      <item index="3" class="java.lang.String" itemvalue="Application.stringclass12" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.charclass" />
-        <item index="1" class="java.lang.String" itemvalue="Application.valueclass" />
-        <item index="2" class="java.lang.String" itemvalue="Application.eleifelse" />
-        <item index="3" class="java.lang.String" itemvalue="Application.caseclass" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ifelseifclass" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.stringclass12" />
+        <item index="2" class="java.lang.String" itemvalue="Application.returndoc" />
+        <item index="3" class="java.lang.String" itemvalue="Application.stringlength" />
+        <item index="4" class="java.lang.String" itemvalue="Application.stringarray" />
       </list>
     </recent_temporary>
   </component>
@@ -829,12 +859,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481977451810</updated>
-      <workItem from="1481977455593" duration="18197000" />
+      <workItem from="1481977455593" duration="21648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18197000" />
+    <option name="totallyTimeSpent" value="21648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1280" height="694" extended-state="6" />
@@ -843,13 +873,13 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23754153" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23421927" sideWeight="0.50646204" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1744186" sideWeight="0.49353796" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33222592" sideWeight="0.49353796" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -888,12 +918,12 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29734218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23754153" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23421927" sideWeight="0.49353796" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31229237" sideWeight="0.49353796" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3101777" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
@@ -992,14 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/Note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/FirstProgram/Puppy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1021,10 +1043,10 @@
         <state relative-caret-position="264">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#509#510#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1165,10 +1187,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/Note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charclass/charclass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="187">
+          <caret line="50" column="60" lean-forward="false" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringdemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringlength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/charAtclass/returndoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/stringclass12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sample/Java/FirstProgram/stringclass/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding />
         </state>
       </provider>
