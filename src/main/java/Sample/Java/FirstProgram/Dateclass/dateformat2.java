@@ -5,13 +5,16 @@ package Sample.Java.FirstProgram.Dateclass;
  */
 
 import java.util.Date;
-public class dateclass {
+public class dateformat2 {
 
     public static void main(String args[]) {
         // Instantiate a Date object
         Date date = new Date();
 
         // display time and date using toString()
-        System.out.println(date.toString());
+        String str = String.format("Current Date/Time : %tc", date );
+
+        System.out.printf(str);
     }
+    //Current Date/Time : Sat Dec 17 23:39:48 GMT 2016
 }
