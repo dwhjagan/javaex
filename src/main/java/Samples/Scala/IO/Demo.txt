@@ -1,0 +1,2 @@
+This is the test text file
+Scala is open to make use of any Java objects and java.io.File is one of the objects which can be used in Scala programming to read and write files.

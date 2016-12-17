@@ -1,0 +1,69 @@
+/*
+
+Object --> Class, Method, Variable..
+//------
+Array: 
+An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+1. Range 
+2. Array - concatenate.
+3. Multiple Array - Matrix
+4. Processing Array - Min, Max, Total, sum.
+
+//----Collections
+Collections are containers of things. Those containers can be sequenced, linear sets of items like List, Tuple, Option, Map, etc. 
+The collections may have an arbitrary number of elements or be bounded to zero or one element (e.g., Option).
+1. Head
+2.Tail
+3. Isempty
+
+//-------- Error Handling
+try and catch
+1. Update the txt file based on the input paremeter values
+2. Raise the exception message
+3. read the input source file.
+
+//--------- Extractor
+Apply, unapply, Split
+
+//---------- Input / Output ( update,insert, read, retrun)
+1. PrintWriter(new File("test1.txt" ))
+writer.write("Hello Scala 375987394529345983759823984395937597395349857398759384759348875 Jagan\n");
+2.  val line = Console.readLine
+print("Please enter your input : " )
+      val line = Console.readLine
+      println("Thanks, you just typed: " + line)
+ 3.  Source.fromFile ( Read the source file )    
+ 
+//------------ifthenelseCon
+If , else if, else and println
+
+// ----------- Loop
+1. Do while 
+2. For 
+3. while fale, true -  Infinite Loop
+4. While 
+// 
+
+// ------------- Sring
+
+1. Find the length of the string
+2. Concatenate String ( Println(v1 + V2), Println(v1,v2)
+3. raw"Result , s"Result 
+4. multiplier
+// -----------Regular Expression
+ 
+To replace the string matching in the outout.
+1. findFirstIn
+2. findAllIn
+3.replaceFirstIn
+
+// ---------Pattern_Match
+1. matchTest
+2. match
+
+Done:
+14. String
+13. Regular Expression 
+
+
+*/
