@@ -1,5 +1,4 @@
 package Sample.Java.FirstProgram.Methodclass;
-
 /**
  * Created by janaidu on 18/12/2016.
  */
