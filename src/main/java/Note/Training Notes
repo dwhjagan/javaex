@@ -12,4 +12,12 @@ private     |   +   |    o    |    o     |     o    |   o
 + : accessible
 o : not accessible
 
-Class -
+public: accessible from everywhere.
+protected: accessible by the classes of the same package and the subclasses residing in any package.
+default (no modifier specified): accessible by the classes of the same package.
+private: accessible within the same class only.
+
+A private member is only accessible within the same class as it is declared.
+A member with no access modifier is only accessible within classes in the same package.
+A protected member is accessible within all classes in the same package and within subclasses in other packages.
+A public member is accessible to all classes (unless it resides in a module that does not export the package it is declared in).
