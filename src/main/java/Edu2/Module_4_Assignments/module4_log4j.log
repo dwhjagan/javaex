@@ -1,0 +1,32 @@
+2015-05-19 16:11:59 INFO  module4.Log4jDemo:39 - Entering main(...)
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 1
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 3
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 6
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 10
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 15
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 21
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:31 - val = 28
+2015-05-19 16:11:59 DEBUG module4.Log4jDemo:41 - Final sum = 28
+2015-05-19 16:11:59 INFO  module4.Log4jDemo:42 - Exiting main(...)
+2015-05-19 16:12:49 INFO  module4.Log4jDemo:39 - Entering main(...)
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 1
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 3
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 6
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 10
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 15
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 21
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:31 - val = 28
+2015-05-19 16:12:49 DEBUG module4.Log4jDemo:41 - Final sum = 28
+2015-05-19 16:12:49 INFO  module4.Log4jDemo:42 - Exiting main(...)
+2015-05-19 16:13:00 INFO  module4.Log4jDemo:39 - Entering main(...)
+2015-05-19 16:13:00 INFO  module4.Log4jDemo:42 - Exiting main(...)
+2015-05-19 16:13:05 INFO  module4.Log4jDemo:39 - Entering main(...)
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 1
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 3
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 6
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 10
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 15
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 21
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:31 - val = 28
+2015-05-19 16:13:05 DEBUG module4.Log4jDemo:41 - Final sum = 28
+2015-05-19 16:13:05 INFO  module4.Log4jDemo:42 - Exiting main(...)
