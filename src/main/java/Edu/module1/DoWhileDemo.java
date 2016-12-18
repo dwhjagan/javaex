@@ -9,7 +9,7 @@ public class DoWhileDemo {
 		int i= 0;
 		do
 		{
-			i++;
+			 i++ ;
 			System.out.println(i);
 		}while (i < NUMBERS_TO_PRINT);
 	}
