@@ -1,2 +1,0 @@
-DROP TABLE IF EXISTS test.student;
-CREATE TABLE test.student (id INT PRIMARY KEY , name VARCHAR(20) NOT NULL);
