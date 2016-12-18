@@ -1,13 +1,14 @@
 package Sample.Java.FirstProgram.RegularExpression;
 
 /**
- * Created by janaidu on 17/12/2016.
+ * Created by janaidu on 18/12/2016.
  */
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-public class RegexMatches {
+import java.util.regex.Matcher;
+        import java.util.regex.Pattern;
+
+public class replace3 {
 
     public static void main( String args[] ) {
         // String to be scanned to find the pattern.
@@ -19,7 +20,6 @@ public class RegexMatches {
 
         // Now create matcher object.
         Matcher m = r.matcher(line);
-
         if (m.find( )) {
             System.out.println("Found value: " + m.group(0) );
             System.out.println("Found value: " + m.group(1) );
