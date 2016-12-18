@@ -1,11 +1,11 @@
-package Sample.Java.FirstProgram;
+package Sample.Java.FirstProgram.RegularExpression;
 
 /**
  * Created by janaidu on 17/12/2016.
  */
 
 import java.util.regex.Matcher;
-        import java.util.regex.Pattern;
+import java.util.regex.Pattern;
 
 public class RegexMatches {
 
