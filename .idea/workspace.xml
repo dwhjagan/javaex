@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33cb4662-058e-4d66-876c-2a0e49716703" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Note/Javadoc.ppt" />
-    </list>
+    <list default="true" id="33cb4662-058e-4d66-876c-2a0e49716703" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -911,12 +909,12 @@
       <option name="presentableId" value="Default" />
       <updated>1481977451810</updated>
       <workItem from="1481977455593" duration="55761000" />
-      <workItem from="1482088184017" duration="9779000" />
+      <workItem from="1482088184017" duration="10372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65540000" />
+    <option name="totallyTimeSpent" value="66133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1280" height="694" extended-state="6" />
