@@ -1,3 +1,11 @@
++ : accessible
+o : not accessible
+
+public   : accessible from everywhere.
+protected: accessible by the classes of the same package and the subclasses residing in any package.
+default  :(no modifier specified): accessible by the classes of the same package.
+private  : accessible within the same class only.
+
             | Class | Package | Subclass | Subclass | World
             |       |         |(same pkg)|(diff pkg)|
 ————————————+———————+—————————+——————————+——————————+————————
@@ -9,20 +17,12 @@ no modifier |   +   |    +    |    +     |     o    |   o
 ————————————+———————+—————————+——————————+——————————+————————
 private     |   +   |    o    |    o     |     o    |   o
 
-+ : accessible
-o : not accessible
-
-public   : accessible from everywhere.
-protected: accessible by the classes of the same package and the subclasses residing in any package.
-default  :(no modifier specified): accessible by the classes of the same package.
-private  : accessible within the same class only.
-
-----------------------------------------------------------------------------
+--------------------------------------------------------------------------
 Public    Static    void          main(         string        args[])
 access    Keyword   Return type   method Name   string class  array of string objects
 modifier
 
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Java Language Keywords
 
 Here is a list of keywords in the Java programming language.
@@ -38,8 +38,8 @@ break	    double	   implements	  protected	throw
 byte	    else	   import	      public	throws
 case	    enum****   instanceof     return	transient
 catch	    extends	   int	          short	    try
-char	   final	   interface	  static	void
-class	   finally	   long	          strictfp** volatile
-const*	   float	   native	      super	    while
+char	    final	   interface	  static	void
+class	    finally	   long	          strictfp** volatile
+const*	    float	   native	      super	    while
 
 ----------------------------------------------------------------------------
