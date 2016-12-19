@@ -59,8 +59,8 @@
       <file leaf-file-name="Training Notes" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Note/Training Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="608">
+              <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -911,12 +911,12 @@
       <option name="presentableId" value="Default" />
       <updated>1481977451810</updated>
       <workItem from="1481977455593" duration="55761000" />
-      <workItem from="1482088184017" duration="12208000" />
+      <workItem from="1482088184017" duration="12294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67969000" />
+    <option name="totallyTimeSpent" value="68055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1280" height="694" extended-state="6" />
@@ -1262,8 +1262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Note/Training Notes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="608">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
           <folding />
         </state>
       </provider>
