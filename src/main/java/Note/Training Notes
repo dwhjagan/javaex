@@ -42,5 +42,21 @@ char	    final	   interface	  static	void
 class	    finally	   long	          strictfp** volatile
 const*	    float	   native	      super	    while
 
-
 ----------------------------------------------------------------------------
+1.	How to Package and deploy to remote server using pom file.
+2.	Multi-module/pom build,  maintain and merge to the parent.
+3.	when the multiple user checkout the same code then
+    how to merge the various amended/users code to master in repo/git?
+4.	Intellij multiple pom file how to maintain.
+5. Difference between constructor/method/..interface/trait.
+6. OOPS.
+----------------------------------------------------------------------------
+
+git revert HEAD~2..HEAD
+git rebase -i HEAD~{N}
+git diff-tree -r {hash}
+git bisect bad # marks the current version as bad
+git bisect good {hash or tag} # marks the given hash or tag as good,
+    ideally of some earlier commit
+
+ git bisect reset
