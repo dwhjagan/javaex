@@ -4,7 +4,6 @@ package objectoriented.Encapsulation.Inheritance;
  * Created by janaidu on 20/12/2016.
  */
 
-
 class Super_class {
     int num = 20;
 
