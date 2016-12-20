@@ -17,10 +17,8 @@ public class EmployeeDemo {
                     yearOfBirth = year;
                     year = -1;      // modify local variable copy
 
-
                 }
             }
-
 
             Employee e1 = new Employee();          //object
             e1.name = "John";
