@@ -1,10 +1,6 @@
 package edu3;
-
-/**
- * Created by janaidu on 21/12/2016.
- */
-
-
+//Enums restrict a variable to have one of only a few predefined values.
+// The values in this enumerated list are called enums.
 class enumerator {
 
     public enum Gender {
