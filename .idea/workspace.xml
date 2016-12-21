@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="066d616b-f919-49b4-9f8c-e8e286bb5517" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Note/Java Key words.pptx" afterPath="$PROJECT_DIR$/src/main/java/Note/Java Key words.pptx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Note/Javadoc.ppt" afterPath="$PROJECT_DIR$/src/main/java/Note/Javadoc.ppt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -771,12 +772,12 @@
       <updated>1482187773009</updated>
       <workItem from="1482187776724" duration="2910000" />
       <workItem from="1482191429585" duration="1646000" />
-      <workItem from="1482216434476" duration="7433000" />
+      <workItem from="1482216434476" duration="7656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11989000" />
+    <option name="totallyTimeSpent" value="12212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="694" extended-state="6" />
