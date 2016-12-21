@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="066d616b-f919-49b4-9f8c-e8e286bb5517" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu3/block.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Note/Java Key words.pptx" afterPath="$PROJECT_DIR$/src/main/java/Note/Java Key words.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="066d616b-f919-49b4-9f8c-e8e286bb5517" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -871,12 +867,12 @@
       <updated>1482187773009</updated>
       <workItem from="1482187776724" duration="2910000" />
       <workItem from="1482191429585" duration="1646000" />
-      <workItem from="1482216434476" duration="15093000" />
+      <workItem from="1482216434476" duration="15247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19649000" />
+    <option name="totallyTimeSpent" value="19803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="694" extended-state="6" />
