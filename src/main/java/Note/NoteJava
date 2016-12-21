@@ -1,0 +1,19 @@
+class Car {// www  .jav  a 2  s.c  o  m
+  // Constructor #1
+  public Car() {
+    System.out.println("A car  is created.");
+  }
+
+  // Constructor #2
+  public Car(String name) {
+    System.out.println("A car  named " + name + "  is created.");
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    Car d1 = new Car(); // Uses Constructor #1
+    Car d2 = new Car("My Car"); // Uses Constructor #2
+  }
+}
+-----------------
