@@ -1,0 +1,9 @@
+Constructor is a block of code that allows you to create an object of class.
+This can also be called creating an instance. Constructor looks like a method
+but it’s not, for example methods can have any return type or no return type
+(considered as void) but constructors don’t have any return type not even void.
+There are several other differences between them, we will discuss them in detail
+at the end of this article.
+
+Types of Constructors
+There are three types of constructors: default, no-arg and parameterised.
