@@ -12,6 +12,7 @@ interface Animal {
     public void travel();
 }
 
+
 public class inter implements Animal {
 
     public void eat() {
